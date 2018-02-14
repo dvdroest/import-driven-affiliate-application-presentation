@@ -1,0 +1,17 @@
+countries:
+  -
+    name: Argentinië
+    alternatives:
+      - Argentinie
+      - Argentina
+  -
+    name: Australië
+    alternatives:
+      - Australie
+      - Australia
+  -
+    name: Chili
+  -
+    name: Duitsland
+    alternatives:
+      - Germany

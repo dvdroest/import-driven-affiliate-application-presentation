@@ -1,0 +1,14 @@
+mapping:
+  descriptionLong: description
+  descriptionShort: description
+  country: subsubcategories
+  deliveryTime: deliveryTime
+  winetype: categoryPath
+  url: URL
+  name: name
+basics:
+  id: ID
+configuration:
+  removeWhiteSpaceFromImage: false
+  alwaysInStock: false
+  minDescriptionLength: 70
