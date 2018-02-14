@@ -20,4 +20,5 @@ abstract class AbstractProductImporter implements ItemImporter{
 
         return $item;
     }
+
 }
